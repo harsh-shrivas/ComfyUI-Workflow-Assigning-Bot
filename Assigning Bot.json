@@ -1,0 +1,217 @@
+{
+  "id": "bf38f6ba-d70c-4da6-aa43-ff8c9b11693b",
+  "revision": 0,
+  "last_node_id": 48,
+  "last_link_id": 60,
+  "nodes": [
+    {
+      "id": 3,
+      "type": "ShowText|pysssss",
+      "pos": [
+        5739.182207079803,
+        2040.9482772264296
+      ],
+      "size": [
+        480.2700146177758,
+        376.80730471033803
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 60
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "shape": 6,
+          "type": "STRING",
+          "links": [
+            57
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ShowText|pysssss"
+      },
+      "widgets_values": [
+        "==================================================\n📊 SHEET CONTENT SUMMARY\n==================================================\n• Total Deliverables : 51\n• Carousels          : 21\n• Statics            : 2\n• UGC / Reels        : 11\n• Founder Content    : 5\n• Breaks             : 12\n• Total Images/Slides: 51\n==================================================\n\n02/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.x855utlg3co3)\n03/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.hywkn8900f6t)\n04/10/2026 - [UGC x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t3ftmp2dimg8)\n05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n06/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.zi2n76qckcnn)\n07/10/2026 - [Founder Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.f14xy2pqcoal)\n08/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.8hgntvz6zbi9)\n09/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.wrgeq6szi77s)\n10/10/2026 - [NSC - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.imagke9jzn62)\n11/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.moezsv1vocza)\n12/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1e3keowzsdth)\n13/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.shnzgzfcat9t)\n14/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.cj79rfcwrv9x)\n15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n16/10/2026 - [Age Arrest - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1xsqkzdyp381)\n17/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.pd3zqgasl4i3)\n18/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.u9q46qgih0fb)\n19/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.emnq4h874mgd)\n20/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6ozera1cm9py)\n21/10/2026 - [NSC - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ywyu3mih97u)\n22/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bziqq5kky3gb)\n23/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xmxv6d978oyi)\n24/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xk0np1kk3rvc)\n25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n26/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bhkmk4pm6uds)\n27/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6z0abj5s1y1s)\n28/10/2026 - [DEP - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.rnm9w6t8v6pz)\n29/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.2y0m85wlm76j)\n30/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n31/10/2026 - [Founde - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.joppf61p9d5s)\n01/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.h1wxjfxn0g5t)\n02/11/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n03/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.q3c07tcdxon2)\n04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n05/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ffo6bvcg69f)\n06/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.lsgsuvnvrkm0)\n07/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.deespjlzjexe)\n08/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.5pedbt8dm3vn)\n09/11/2026 - [Age Arrest - Post Video x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.be32wgo2dft5)\n10/11/2026 - [Hydrating - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t7k76xm22wlm)\n11/11/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.77fximpy5iso)\n12/11/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.7t8exp4yizbq)\n13/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.ftn9c5tji16y)"
+      ],
+      "widgets_values_named": {
+        "text_0": "==================================================\n📊 SHEET CONTENT SUMMARY\n==================================================\n• Total Deliverables : 51\n• Carousels          : 21\n• Statics            : 2\n• UGC / Reels        : 11\n• Founder Content    : 5\n• Breaks             : 12\n• Total Images/Slides: 51\n==================================================\n\n02/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.x855utlg3co3)\n03/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.hywkn8900f6t)\n04/10/2026 - [UGC x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t3ftmp2dimg8)\n05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n06/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.zi2n76qckcnn)\n07/10/2026 - [Founder Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.f14xy2pqcoal)\n08/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.8hgntvz6zbi9)\n09/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.wrgeq6szi77s)\n10/10/2026 - [NSC - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.imagke9jzn62)\n11/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.moezsv1vocza)\n12/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1e3keowzsdth)\n13/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.shnzgzfcat9t)\n14/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.cj79rfcwrv9x)\n15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n16/10/2026 - [Age Arrest - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1xsqkzdyp381)\n17/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.pd3zqgasl4i3)\n18/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.u9q46qgih0fb)\n19/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.emnq4h874mgd)\n20/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6ozera1cm9py)\n21/10/2026 - [NSC - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ywyu3mih97u)\n22/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bziqq5kky3gb)\n23/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xmxv6d978oyi)\n24/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xk0np1kk3rvc)\n25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n26/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bhkmk4pm6uds)\n27/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6z0abj5s1y1s)\n28/10/2026 - [DEP - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.rnm9w6t8v6pz)\n29/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.2y0m85wlm76j)\n30/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n31/10/2026 - [Founde - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.joppf61p9d5s)\n01/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.h1wxjfxn0g5t)\n02/11/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n03/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.q3c07tcdxon2)\n04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)\n05/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ffo6bvcg69f)\n06/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.lsgsuvnvrkm0)\n07/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.deespjlzjexe)\n08/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.5pedbt8dm3vn)\n09/11/2026 - [Age Arrest - Post Video x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.be32wgo2dft5)\n10/11/2026 - [Hydrating - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t7k76xm22wlm)\n11/11/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.77fximpy5iso)\n12/11/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.7t8exp4yizbq)\n13/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.ftn9c5tji16y)"
+      }
+    },
+    {
+      "id": 29,
+      "type": "ShowText|pysssss",
+      "pos": [
+        6912.362542772987,
+        2360.0852559983655
+      ],
+      "size": [
+        507.87420561714043,
+        742.0628350139655
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 58
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "shape": 6,
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ShowText|pysssss"
+      },
+      "widgets_values": [
+        "==================================================\n🎥 VIDEO DEPARTMENT (UNASSIGNED SUMMARY)\n📊 Total Video Deliverables: 16\n==================================================\n01. 04/10/2026 - [UGC x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t3ftmp2dimg8)\n\n02. 07/10/2026 - [Founder Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.f14xy2pqcoal)\n\n03. 11/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.moezsv1vocza)\n\n04. 14/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.cj79rfcwrv9x)\n\n05. 17/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.pd3zqgasl4i3)\n\n06. 20/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6ozera1cm9py)\n\n07. 23/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xmxv6d978oyi)\n\n08. 27/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6z0abj5s1y1s)\n\n09. 30/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n\n10. 31/10/2026 - [Founde - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.joppf61p9d5s)\n\n11. 02/11/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n\n12. 03/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.q3c07tcdxon2)\n\n13. 06/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.lsgsuvnvrkm0)\n\n14. 08/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.5pedbt8dm3vn)\n\n15. 09/11/2026 - [AAS - Post Video x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.be32wgo2dft5)\n\n16. 13/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.ftn9c5tji16y)\n\n==================================================\n🎨 WORK SCHEDULE: ARTIST 01\n📊 📅 Active Range: 02/10/2026 to 13/11/2026 | Start: 29/09/2026 | Capacity: 4 slides/day\n📊 Total Tasks: 24 | Total Images/Slides: 24\n==================================================\n01. 02/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.x855utlg3co3) : 29/09/2026\n\n02. 05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 29/09/2026\n\n03. 05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 29/09/2026\n\n04. 05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 29/09/2026\n\n05. 06/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.zi2n76qckcnn) : 30/09/2026\n\n06. 09/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.wrgeq6szi77s) : 30/09/2026\n\n07. 12/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1e3keowzsdth) : 30/09/2026\n\n08. 15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 30/09/2026\n\n09. 15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 01/10/2026\n\n10. 15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 01/10/2026\n\n11. 16/10/2026 - [AAS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1xsqkzdyp381) : 01/10/2026\n\n12. 19/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.emnq4h874mgd) : 01/10/2026\n\n13. 22/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bziqq5kky3gb) : 02/10/2026\n\n14. 25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 02/10/2026\n\n15. 25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 02/10/2026\n\n16. 25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 02/10/2026\n\n17. 26/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bhkmk4pm6uds) : 05/10/2026\n\n18. 29/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.2y0m85wlm76j) : 05/10/2026\n\n19. 04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 05/10/2026\n\n20. 04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 05/10/2026\n\n21. 04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 06/10/2026\n\n22. 05/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ffo6bvcg69f) : 06/10/2026\n\n23. 10/11/2026 - [HDR - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t7k76xm22wlm) : 06/10/2026\n\n24. 12/11/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.7t8exp4yizbq) : 06/10/2026\n\n==================================================\n🎨 WORK SCHEDULE: ARTIST 02\n📊 📅 Active Range: 02/10/2026 to 13/11/2026 | Start: 29/09/2026 | Capacity: 4 slides/day\n📊 Total Tasks: 11 | Total Images/Slides: 11\n==================================================\n01. 03/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.hywkn8900f6t) : 29/09/2026\n\n02. 08/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.8hgntvz6zbi9) : 29/09/2026\n\n03. 10/10/2026 - [NSC - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.imagke9jzn62) : 29/09/2026\n\n04. 13/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.shnzgzfcat9t) : 29/09/2026\n\n05. 18/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.u9q46qgih0fb) : 30/09/2026\n\n06. 21/10/2026 - [NSC - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ywyu3mih97u) : 30/09/2026\n\n07. 24/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xk0np1kk3rvc) : 30/09/2026\n\n08. 28/10/2026 - [DEP - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.rnm9w6t8v6pz) : 30/09/2026\n\n09. 01/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.h1wxjfxn0g5t) : 01/10/2026\n\n10. 07/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.deespjlzjexe) : 01/10/2026\n\n11. 11/11/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.77fximpy5iso) : 01/10/2026"
+      ],
+      "widgets_values_named": {
+        "text_0": "==================================================\n🎥 VIDEO DEPARTMENT (UNASSIGNED SUMMARY)\n📊 Total Video Deliverables: 16\n==================================================\n01. 04/10/2026 - [UGC x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t3ftmp2dimg8)\n\n02. 07/10/2026 - [Founder Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.f14xy2pqcoal)\n\n03. 11/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.moezsv1vocza)\n\n04. 14/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.cj79rfcwrv9x)\n\n05. 17/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.pd3zqgasl4i3)\n\n06. 20/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6ozera1cm9py)\n\n07. 23/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xmxv6d978oyi)\n\n08. 27/10/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.6z0abj5s1y1s)\n\n09. 30/10/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n\n10. 31/10/2026 - [Founde - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.joppf61p9d5s)\n\n11. 02/11/2026 - [Founder - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.9sn9umhcip3l)\n\n12. 03/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.q3c07tcdxon2)\n\n13. 06/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.lsgsuvnvrkm0)\n\n14. 08/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.5pedbt8dm3vn)\n\n15. 09/11/2026 - [AAS - Post Video x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.be32wgo2dft5)\n\n16. 13/11/2026 - [UGC - Reel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.ftn9c5tji16y)\n\n==================================================\n🎨 WORK SCHEDULE: ARTIST 01\n📊 📅 Active Range: 02/10/2026 to 13/11/2026 | Start: 29/09/2026 | Capacity: 4 slides/day\n📊 Total Tasks: 24 | Total Images/Slides: 24\n==================================================\n01. 02/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.x855utlg3co3) : 29/09/2026\n\n02. 05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 29/09/2026\n\n03. 05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 29/09/2026\n\n04. 05/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 29/09/2026\n\n05. 06/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.zi2n76qckcnn) : 30/09/2026\n\n06. 09/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.wrgeq6szi77s) : 30/09/2026\n\n07. 12/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1e3keowzsdth) : 30/09/2026\n\n08. 15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 30/09/2026\n\n09. 15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 01/10/2026\n\n10. 15/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 01/10/2026\n\n11. 16/10/2026 - [AAS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1xsqkzdyp381) : 01/10/2026\n\n12. 19/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.emnq4h874mgd) : 01/10/2026\n\n13. 22/10/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bziqq5kky3gb) : 02/10/2026\n\n14. 25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 02/10/2026\n\n15. 25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 02/10/2026\n\n16. 25/10/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 02/10/2026\n\n17. 26/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.bhkmk4pm6uds) : 05/10/2026\n\n18. 29/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.2y0m85wlm76j) : 05/10/2026\n\n19. 04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 05/10/2026\n\n20. 04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 05/10/2026\n\n21. 04/11/2026 - [Break x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit) : 06/10/2026\n\n22. 05/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ffo6bvcg69f) : 06/10/2026\n\n23. 10/11/2026 - [HDR - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.t7k76xm22wlm) : 06/10/2026\n\n24. 12/11/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.7t8exp4yizbq) : 06/10/2026\n\n==================================================\n🎨 WORK SCHEDULE: ARTIST 02\n📊 📅 Active Range: 02/10/2026 to 13/11/2026 | Start: 29/09/2026 | Capacity: 4 slides/day\n📊 Total Tasks: 11 | Total Images/Slides: 11\n==================================================\n01. 03/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.hywkn8900f6t) : 29/09/2026\n\n02. 08/10/2026 - [ACS - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.8hgntvz6zbi9) : 29/09/2026\n\n03. 10/10/2026 - [NSC - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.imagke9jzn62) : 29/09/2026\n\n04. 13/10/2026 - [Range - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.shnzgzfcat9t) : 29/09/2026\n\n05. 18/10/2026 - [Brand - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.u9q46qgih0fb) : 30/09/2026\n\n06. 21/10/2026 - [NSC - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.1ywyu3mih97u) : 30/09/2026\n\n07. 24/10/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.xk0np1kk3rvc) : 30/09/2026\n\n08. 28/10/2026 - [DEP - Static x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.rnm9w6t8v6pz) : 30/09/2026\n\n09. 01/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.h1wxjfxn0g5t) : 01/10/2026\n\n10. 07/11/2026 - [DEP - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.deespjlzjexe) : 01/10/2026\n\n11. 11/11/2026 - [PRM - Carousel x1](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit#bookmark=id.77fximpy5iso) : 01/10/2026"
+      }
+    },
+    {
+      "id": 46,
+      "type": "SplitAssigner",
+      "pos": [
+        6376.098149525024,
+        2206.988102594322
+      ],
+      "size": [
+        343.91015625,
+        154
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "extracted_content",
+          "type": "STRING",
+          "link": 57
+        }
+      ],
+      "outputs": [
+        {
+          "name": "all_schedules_formatted",
+          "type": "STRING",
+          "links": [
+            58
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SplitAssigner"
+      },
+      "widgets_values": [
+        2,
+        4,
+        "29.09.26",
+        "2.10.26",
+        "13.11.26"
+      ],
+      "widgets_values_named": {
+        "num_artists": 2,
+        "capacity_per_day": 4,
+        "assigning_start_date": "29.09.26",
+        "start_date": "2.10.26",
+        "end_date": "13.11.26"
+      }
+    },
+    {
+      "id": 48,
+      "type": "GoogleWorkspaceReader",
+      "pos": [
+        5307.280921611819,
+        1951.6676248757872
+      ],
+      "size": [
+        329.683203125,
+        106
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "extracted_content",
+          "type": "STRING",
+          "links": [
+            60
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "GoogleWorkspaceReader"
+      },
+      "widgets_values": [
+        "https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit?usp=sharing",
+        "YOUR_GEMINI_API_KEY",
+        "Grid Reference [For Design Team]"
+      ],
+      "widgets_values_named": {
+        "google_link": "https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit?usp=sharing",
+        "gemini_api_key": "YOUR_GEMINI_API_KEY",
+        "target_tab": "Grid Reference [For Design Team]"
+      }
+    }
+  ],
+  "links": [
+    [
+      57,
+      3,
+      0,
+      46,
+      0,
+      "STRING"
+    ],
+    [
+      58,
+      46,
+      0,
+      29,
+      0,
+      "STRING"
+    ],
+    [
+      60,
+      48,
+      0,
+      3,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.5046710879966038,
+      "offset": [
+        -4971.355750444443,
+        -1640.448785556493
+      ]
+    },
+    "frontendVersion": "1.53.6",
+    "VHS_latentpreview": false,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}
